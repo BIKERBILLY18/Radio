@@ -1,0 +1,16 @@
+C:\Users\biker\source\repos\Radio\Radio\bin\Release\netcoreapp3.1\Radio.exe
+C:\Users\biker\source\repos\Radio\Radio\bin\Release\netcoreapp3.1\Radio.deps.json
+C:\Users\biker\source\repos\Radio\Radio\bin\Release\netcoreapp3.1\Radio.runtimeconfig.json
+C:\Users\biker\source\repos\Radio\Radio\bin\Release\netcoreapp3.1\Radio.runtimeconfig.dev.json
+C:\Users\biker\source\repos\Radio\Radio\bin\Release\netcoreapp3.1\Radio.dll
+C:\Users\biker\source\repos\Radio\Radio\bin\Release\netcoreapp3.1\Radio.pdb
+C:\Users\biker\source\repos\Radio\Radio\obj\Release\netcoreapp3.1\Radio.csprojAssemblyReference.cache
+C:\Users\biker\source\repos\Radio\Radio\obj\Release\netcoreapp3.1\Radio.Radio.resources
+C:\Users\biker\source\repos\Radio\Radio\obj\Release\netcoreapp3.1\Radio.Properties.Resources.resources
+C:\Users\biker\source\repos\Radio\Radio\obj\Release\netcoreapp3.1\Radio.csproj.GenerateResource.cache
+C:\Users\biker\source\repos\Radio\Radio\obj\Release\netcoreapp3.1\Radio.AssemblyInfoInputs.cache
+C:\Users\biker\source\repos\Radio\Radio\obj\Release\netcoreapp3.1\Radio.AssemblyInfo.cs
+C:\Users\biker\source\repos\Radio\Radio\obj\Release\netcoreapp3.1\Radio.csproj.CoreCompileInputs.cache
+C:\Users\biker\source\repos\Radio\Radio\obj\Release\netcoreapp3.1\Radio.dll
+C:\Users\biker\source\repos\Radio\Radio\obj\Release\netcoreapp3.1\Radio.pdb
+C:\Users\biker\source\repos\Radio\Radio\obj\Release\netcoreapp3.1\Radio.genruntimeconfig.cache
